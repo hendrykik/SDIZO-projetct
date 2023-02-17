@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1649122077 source:c:\users\asus\documents\projektsdizo\program_sdizo_123\lista.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Lista.h"
+
+1648663979 c:\users\asus\documents\projektsdizo\program_sdizo_123\lista.h
+	<iostream>
+
+1649135284 source:c:\users\asus\documents\projektsdizo\program_sdizo_123\main.cpp
+	"Lista.h"
+	"Tablica.h"
+	"Kopiec.h"
+	"avltree.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+
+1648672466 c:\users\asus\documents\projektsdizo\program_sdizo_123\tablica.h
+	<iostream>
+
+1649122405 source:c:\users\asus\documents\projektsdizo\program_sdizo_123\tablica.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Tablica.h"
+
+1649134140 source:c:\users\asus\documents\projektsdizo\program_sdizo_123\kopiec.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<math.h>
+	<string>
+	"Kopiec.h"
+
+1649119002 c:\users\asus\documents\projektsdizo\program_sdizo_123\kopiec.h
+	<iostream>
+
+1648857856 c:\users\asus\documents\projektsdizo\program_sdizo_123\avltree.h
+	<iostream>
+
+1648905473 source:c:\users\asus\documents\projektsdizo\program_sdizo_123\avltree.cpp
+	<iostream>
+	"avltree.h"
+
